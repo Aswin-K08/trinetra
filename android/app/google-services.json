@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690939877907",
+    "project_id": "trinetra-8fcf3",
+    "storage_bucket": "trinetra-8fcf3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690939877907:android:35f8aae643f6317cd3bde6",
+        "android_client_info": {
+          "package_name": "com.example.trinetraflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJebUPP0A2mF8JOTraeWAq-IoIs0sYvUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
