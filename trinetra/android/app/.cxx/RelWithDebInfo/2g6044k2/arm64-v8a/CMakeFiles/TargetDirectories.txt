@@ -1,0 +1,2 @@
+C:/Tooler/projects/trinetra/android/app/.cxx/RelWithDebInfo/2g6044k2/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Tooler/projects/trinetra/android/app/.cxx/RelWithDebInfo/2g6044k2/arm64-v8a/CMakeFiles/rebuild_cache.dir

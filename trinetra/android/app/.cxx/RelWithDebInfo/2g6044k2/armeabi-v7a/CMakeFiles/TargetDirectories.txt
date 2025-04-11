@@ -1,0 +1,2 @@
+C:/Tooler/projects/trinetra/android/app/.cxx/RelWithDebInfo/2g6044k2/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Tooler/projects/trinetra/android/app/.cxx/RelWithDebInfo/2g6044k2/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+C:/Tooler/projects/Fitness_Trinetra_Flutter-main/android/app/.cxx/RelWithDebInfo/67r5s412/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Tooler/projects/Fitness_Trinetra_Flutter-main/android/app/.cxx/RelWithDebInfo/67r5s412/armeabi-v7a/CMakeFiles/rebuild_cache.dir
